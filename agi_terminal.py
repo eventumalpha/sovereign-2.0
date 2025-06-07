@@ -1,0 +1,1 @@
+# AGI terminal with voice input placeholder
